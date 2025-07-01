@@ -14,7 +14,7 @@ export default defineNuxtConfig({
     icons: ["heroicons", "lucide"],
   },
   app: {
-    baseURL: '/mehedihasanofficial/',
+    baseURL: '/',
     pageTransition: { name: "page", mode: "out-in" },
     head: {
       htmlAttrs: {
