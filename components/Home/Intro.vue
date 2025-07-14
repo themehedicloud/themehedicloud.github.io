@@ -5,7 +5,7 @@
       sizes="48px sm:64px" placeholder format="webp" /> -->
     <div class="font-mono text-xs sm:text-base leading-none overflow-x-auto whitespace-nowrap hover:text-lightaccent hover:dark:text-darkaccent">
       <span class="block">┌───┬─────┬────────┬───────┐</span>
-      <span class="block">│ &gt; │ The │ Mehedi │ Cloud │</span>
+      <span class="block">│&nbsp;&gt;&nbsp;│&nbsp;The&nbsp;│&nbsp;Mehedi&nbsp;│&nbsp;Cloud&nbsp;│</span>
       <span class="block">└───┴─────┴────────┴───────┘</span>
     </div>
     <h1 class="text-base font-bold tracking-tight text-gray-800 dark:text-gray-100">
