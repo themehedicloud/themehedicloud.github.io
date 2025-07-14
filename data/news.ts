@@ -1,5 +1,11 @@
 export default [
   {
+    "title": "Exciting New Project ThumbnailBait",
+    "slug": "Exciting-New-Project-ThumbnailBait",
+    "published": "2025-02-28",
+    "description": "Exciting New Project: ThumbnailBait! Exploring Clickbait Detection through Multi-Modal Analysis of Text and Images."
+  },
+  {
     "title": "AI for Cybersecurity Completed",
     "slug": "AI-for-Cybersecurity-completed",
     "published": "2024-12-04",
